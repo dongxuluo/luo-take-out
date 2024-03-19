@@ -1,0 +1,9 @@
+[submodule "sky-take-out"]
+	path = sky-take-out
+	url = https://github.com/dongxuluo/sky-take-out.git
+[submodule "sky-take-out-front-end"]
+	path = sky-take-out-front-end
+	url = https://github.com/dongxuluo/sky-take-out-front-end.git
+[submodule "sky-take-out-mp-weixin"]
+	path = sky-take-out-mp-weixin
+	url = https://github.com/dongxuluo/sky-take-out-mp-weixin.git
